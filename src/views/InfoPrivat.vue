@@ -11,9 +11,9 @@
 
             <p>Khilo Creations har 2 priser beroende på hur mycket du är i behov av:</p>
 
-            <p>Basic: För en professionell och välgjord server med allt ni kan tänka er och även kan be om saker under processen ligger priset på 199:-</p>
+            <p>Basic: För en professionell och välgjord server med allt ni kan tänka er och även kan be om saker under processen ligger priset på 249:-</p>
 
-            <p>Premium: För priset på 349:- skapar vi en professionell och välgjord server där ni kan be om saker under processen och Khilo Creations stannar även kvar i servern ifall ni är sugna på några extra detaljer eller kanaler i Discord servern framöver.
+            <p>Premium: För priset på 399:- skapar vi en professionell och välgjord server där ni kan be om saker under processen och Khilo Creations stannar även kvar i servern ifall ni är sugna på några extra detaljer eller kanaler i Discord servern framöver.
             Den största skillnaden mellan detta paket och Basic är att ni får tillgång till en helt egen programmerad Discord Bot.</p>
 
             <p><span style="font-style: italic;">I detta paket ingår även moderering av servern (om ni vill det).</span></p>
