@@ -38,13 +38,13 @@
                 <img src="../assets/servers/muskot2.png" alt="">
             </div>
         </div>
-        <div class="serverlist">
+        <!-- <div class="serverlist">
             <div class="serverlist-item">
                 <h1>Maxgaming <span style="font-size: 20px">+ Personlig Bot</span></h1>
                 <p>Företag - www.maxgaming.se</p>
                 <img src="../assets/servers/maxgaming.png" alt="">
             </div>
-        </div>
+        </div> -->
         <div class="serverlist">
             <div class="serverlist-item">
                 <h1>Johannes Erlandsson</h1>
